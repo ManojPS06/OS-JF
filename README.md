@@ -187,11 +187,14 @@ ps aux | grep -v grep | grep defunct
 
 ## 2. Demo with Screenshots
 
-<img width="912" height="273" alt="Screenshot 2026-04-15 172158" src="https://github.com/user-attachments/assets/679f9b3d-3235-4e8d-ac92-bc69dcbef79e" />
-<img width="966" height="193" alt="Screenshot 2026-04-15 165446" src="https://github.com/user-attachments/assets/c1e6f97f-ff2d-4baa-91f1-f3b033d0fcfe" />
-<img width="1121" height="67" alt="Screenshot 2026-04-15 165924" src="https://github.com/user-attachments/assets/59ba7f1f-70c5-4091-8cff-782603bef30b" />
-<img width="691" height="89" alt="Screenshot 2026-04-15 165645" src="https://github.com/user-attachments/assets/f3fd3547-1454-40fd-80d7-d55e26306e68" />
-<img width="650" height="257" alt="Screenshot 2026-04-15 165618" src="https://github.com/user-attachments/assets/29385c13-a3f1-4848-b4e9-46d654a6a10d" />
+<img width="1023" height="751" alt="Screenshot 2026-04-15 182324" src="https://github.com/user-attachments/assets/10649db6-2e82-4489-9738-d816c33fee7c" />
+<img width="769" height="170" alt="Screenshot 2026-04-15 182341" src="https://github.com/user-attachments/assets/67089755-6e89-4f1c-aaa0-941e423c6cc0" />
+<img width="896" height="230" alt="Screenshot 2026-04-15 182422" src="https://github.com/user-attachments/assets/fa6d36b4-13df-4363-b47f-66f32be80a5c" />
+<img width="677" height="684" alt="Screenshot 2026-04-15 182445" src="https://github.com/user-attachments/assets/54989bcc-5a54-48a0-8552-f019405496d4" />
+<img width="661" height="85" alt="Screenshot 2026-04-15 182512" src="https://github.com/user-attachments/assets/dcbb937e-53a0-47a1-88d2-cec6ce89199e" />
+<img width="877" height="249" alt="Screenshot 2026-04-15 183503" src="https://github.com/user-attachments/assets/8b53cc78-d86d-4b73-b3d0-57a6fe6bcab9" />
+<img width="936" height="553" alt="Screenshot 2026-04-15 183653" src="https://github.com/user-attachments/assets/fc4ec9e5-a228-4677-b3e2-e20fc673e665" />
+
 
 
 ## 3. Engineering Analysis
