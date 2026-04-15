@@ -6,7 +6,7 @@
 | Name | SRN | Section |
 |---|---|---|
 | Manoj PS | PES1UG24CS265 | E |
-| Manish Bala| PES1UG24CS265 | E |
+| Manish Bala| PES1UG24CS263 | E |
 
 ---
 
